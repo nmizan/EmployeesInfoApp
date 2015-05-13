@@ -1,0 +1,9 @@
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\bin\Debug\EmployeesInfo.exe.config
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\bin\Debug\EmployeesInfo.exe
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\bin\Debug\EmployeesInfo.pdb
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\obj\Debug\EmployeesInfo.csprojResolveAssemblyReference.cache
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\obj\Debug\EmployeesInfo.EmployeeInfoUI.resources
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\obj\Debug\EmployeesInfo.Properties.Resources.resources
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\obj\Debug\EmployeesInfo.csproj.GenerateResource.Cache
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\obj\Debug\EmployeesInfo.exe
+E:\Mizan\06.05.15\EmployeesInfo\EmployeesInfo\obj\Debug\EmployeesInfo.pdb
